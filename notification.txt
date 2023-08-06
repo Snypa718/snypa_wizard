@@ -1,0 +1,9 @@
+36
+|||
+[COLOR lime]============================================[/COLOR]
+[COLOR=white]Snypa wizard[/COLOR]
+[COLOR lime]============================================[/COLOR]
+[COLOR=white]Our Wizard is under Maintenance[/COLOR]
+[COLOR lime]============================================[/COLOR]
+[COLOR white]Visit our website https://abc.com/[/COLOR]
+[COLOR lime]============================================[/COLOR]
