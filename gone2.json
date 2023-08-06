@@ -1,0 +1,31 @@
+{
+  "builds": [
+    {
+      "name": "Test Build",
+      "version": "1.0",
+      "url": "https://dutvaussie.com/dutv/builds/test_build.zip",
+      "gui": "http://",
+      "kodi": "20",
+      "theme": "http://",
+      "icon": "https://static.vecteezy.com/system/resources/previews/020/530/952/original/good-test-icon-vector.jpg",
+      "fanart": "https://www.fulcrumlabs.ai/wp-content/uploads/2018/11/good-test-takers2.gif",
+      "preview": "https://",
+      "adult": "no",
+      "description": " [COLOR lime]Snypa wizard[/COLOR] [COLOR white]06 Aug 2023[/COLOR]"
+    },
+    {
+      "name": "Test Build 2",
+      "version": "1.0",
+      "url": "https://homearcadeinabox.com/android/builds/homearcadebuild_test.zip",
+      "gui": "http://",
+      "kodi": "20",
+      "theme": "http://",
+      "icon": "https://st2.depositphotos.com/3336423/6617/v/950/depositphotos_66174171-stock-illustration-letter-b-logo-icon-design.jpg",
+      "fanart": "https://mekreview.com/wp-content/uploads/2020/03/back-to-school-concept-books-colored-pencils-and-P554MJ7.jpeg",
+      "preview": "https://",
+      "adult": "no",
+      "description": " [COLOR lime]Snypa wizard[/COLOR] [COLOR white]25 Oct 2023[/COLOR]"
+    }
+	
+  ]
+}
