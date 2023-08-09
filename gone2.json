@@ -1,14 +1,14 @@
 {
   "builds": [
     {
-      "name": "Test Build",
-      "version": "1.0",
+      "name": "Blank Nexus Build",
+      "version": "20.2",
       "url": "https://snypawiz.000webhostapp.com/SnypaB/NexusTV1.2.zip",
       "gui": "http://",
       "kodi": "20",
       "theme": "http://",
-      "icon": "https://static.vecteezy.com/system/resources/previews/020/530/952/original/good-test-icon-vector.jpg",
-      "fanart": "https://www.fulcrumlabs.ai/wp-content/uploads/2018/11/good-test-takers2.gif",
+      "icon": "https://www.dropbox.com/scl/fi/c1rmakag6xmrhhjs7t0x2/kodinexus20.jpg?rlkey=53beiay4ij0j2ttz4zbrjoqzn&dl=1",
+      "fanart": "https://www.dropbox.com/scl/fi/741idvrd6sncpirzosfbo/fanart.png?rlkey=vkszjj4u9m0m62xf0sseesnip&dl=1",
       "preview": "https://",
       "adult": "no",
       "description": " [COLOR lime]Snypa wizard[/COLOR] [COLOR white]06 Aug 2023[/COLOR]"
@@ -21,7 +21,7 @@
       "kodi": "20",
       "theme": "http://",
       "icon": "https://st2.depositphotos.com/3336423/6617/v/950/depositphotos_66174171-stock-illustration-letter-b-logo-icon-design.jpg",
-      "fanart": "https://mekreview.com/wp-content/uploads/2020/03/back-to-school-concept-books-colored-pencils-and-P554MJ7.jpeg",
+      "fanart": "https://www.dropbox.com/scl/fi/741idvrd6sncpirzosfbo/fanart.png?rlkey=vkszjj4u9m0m62xf0sseesnip&dl=0",
       "preview": "https://",
       "adult": "no",
       "description": " [COLOR lime]Snypa wizard[/COLOR] [COLOR white]25 Oct 2023[/COLOR]"
