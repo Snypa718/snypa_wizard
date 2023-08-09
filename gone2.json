@@ -1,7 +1,7 @@
 {
   "builds": [
     {
-      "name": "Blank Nexus Build",
+      "name": "Blank Nexus 20.2 Build",
       "version": "20.2",
       "url": "https://snypawiz.000webhostapp.com/SnypaB/NexusTV1.2.zip",
       "gui": "http://",
@@ -11,10 +11,10 @@
       "fanart": "https://www.dropbox.com/scl/fi/741idvrd6sncpirzosfbo/fanart.png?rlkey=vkszjj4u9m0m62xf0sseesnip&dl=1",
       "preview": "https://",
       "adult": "no",
-      "description": " [COLOR lime]Snypa wizard[/COLOR] [COLOR white]06 Aug 2023[/COLOR]"
+      "description": " [COLOR lime]Snypa wizard[/COLOR] [COLOR white]Aug 06 2023[/COLOR]"
     },
     {
-      "name": "Test Build 2",
+      "name": "NexusTV Build V1.0",
       "version": "1.0",
       "url": "https://snypawiz.000webhostapp.com/SnypaB/NexusTV5.zip",
       "gui": "http://",
@@ -24,7 +24,7 @@
       "fanart": "https://www.dropbox.com/scl/fi/741idvrd6sncpirzosfbo/fanart.png?rlkey=vkszjj4u9m0m62xf0sseesnip&dl=1",
       "preview": "https://",
       "adult": "no",
-      "description": " [COLOR lime]Snypa wizard[/COLOR] [COLOR white]25 Oct 2023[/COLOR]"
+      "description": " [COLOR lime]Snypa wizard[/COLOR] [COLOR white]AUG 08 2023[/COLOR]"
     }
 	
   ]
