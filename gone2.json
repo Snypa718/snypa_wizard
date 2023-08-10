@@ -25,7 +25,19 @@
       "preview": "https://",
       "adult": "no",
       "description": " [COLOR lime]Snypa wizard[/COLOR] [COLOR white]AUG 08 2023[/COLOR]"
-    }
-	
+    },
+	{
+      "name": "Snypa Build V1.0",
+      "version": "1.0",
+      "url": "https://snypawiz.000webhostapp.com/SnypaB/SnypaBuild1.0.zip",
+      "gui": "http://",
+      "kodi": "20",
+      "theme": "http://",
+      "icon": "https://www.dropbox.com/scl/fi/k54i5jvvzmnamud1swpla/Nexus1.0.png?rlkey=6qrx844h2ffmplriqyjz5os82&dl=1",
+      "fanart": "https://www.dropbox.com/scl/fi/741idvrd6sncpirzosfbo/fanart.png?rlkey=vkszjj4u9m0m62xf0sseesnip&dl=1",
+      "preview": "https://",
+      "adult": "no",
+      "description": " [COLOR lime]Snypa wizard[/COLOR] [COLOR white]AUG 10 2023[/COLOR]"
+    }	
   ]
 }
